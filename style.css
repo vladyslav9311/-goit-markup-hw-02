@@ -1,0 +1,251 @@
+.sait {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1600px;
+    height: 2350px;
+}
+
+
+/* ХЕДЕР */
+.header_all {
+    box-sizing: border-box;
+    width: 1600px;
+    height: 80px;
+    color: #000;
+    display: flex;
+   border: 1px;
+    
+}
+.menu_nav {
+    
+    display: flex;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+}
+.text_menu {
+    font-family: 'Roboto', sans-serif;
+}
+.adremtext {
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    margin-left: auto;
+    list-style: none;
+}
+.menu {
+    display: flex;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+}
+.logo {
+    
+    color: #000;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    margin-left: 215px;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+/* identical to box height */
+
+letter-spacing: 0.03em;
+}
+.menu_ul {
+    display: flex;
+    list-style: none;
+}
+#stud {
+   
+    font-style: normal;
+    font-weight: 500;
+margin-left: 93px;
+    text-decoration: #2196F3;
+}
+#port {
+    padding-left: 50px;
+text-decoration: #2196F3;
+}
+#kont {
+    padding-left: 50px; 
+}
+#email {
+margin-left: 300px;
+}
+#tel {
+padding-left: 50px;
+}
+
+/* БАНЕР */
+
+.baner {
+    
+    box-sizing: border-box;
+    border: 0px;
+    width: 1600px;
+    height: 600px;
+    background-color: #2F303A;
+    
+}
+.title1 {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+    color: #FFFFFF;
+    padding-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    
+align-items: center;
+text-align: center;
+}
+#t11 {
+    padding-top: 1px;
+}
+
+#button_baner {
+    width: 200px;
+height: 50px;
+background: #2196F3;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+border-radius: 4px;
+margin-right: auto;
+margin-left: auto;
+}
+/* ПЕРЕВАГИ */
+.text_box {
+    margin-left: 30px;
+    font-weight: 400;
+    font-size: 14px;
+line-height: 24px;
+    }
+    .text_box_all {
+        margin-left: 215px;
+        margin-right: 215px;
+        display: flex;
+        flex-direction: row;
+        margin-top: 94px;
+    }
+.text_box {
+    font-family: 'Roboto', sans-serif;
+}
+.text_perevagy {
+    letter-spacing: 0.03em;
+color: #757575;
+}
+/* ЩО РОБИМО */
+.inwork_all {
+    margin-left: auto;
+    margin-right: auto;
+    width: 370px;
+    height: 294px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.inwork1 {
+
+    margin-left: auto;
+    
+}
+.inwork2 {
+    margin-left: auto;
+    padding-left: 30px;
+}
+.inwork3 {
+    margin-left: auto;
+    padding-left: 30px;
+}
+#wwd_h2 {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 94px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+/* КОМАНДА */
+.teamh2 {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+.team {
+    box-sizing: border-box;
+    border: 0px;
+    height: 648px;
+    background-color: #F5F4FA;
+    box-sizing: border-box;
+}
+.card_all {
+    
+    display: flex;
+    justify-content: space-evenly;
+    width: 260px; height: 270px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    padding-top: 50px;
+}
+.card {
+    height: 368px; width: 270px;
+    box-sizing: border-box;
+    background: #FFFFFF;
+}
+.card-img-top {
+    width: 260px; height: 270px
+}
+
+#card2 {
+    padding-left: 30px;
+}
+#card3 {
+    padding-left: 30px;
+}
+#card4 {
+    padding-left: 30px;
+}
+
+/* ФУТЕР */
+.footer {
+    box-sizing: border-box;
+    border: 0px;
+height: 252px;
+background-color: #2F303A;
+}
+#logo_f {
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+padding-top: auto;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+/* identical to box height */
+
+letter-spacing: 0.03em;
+}
+.adres {
+    font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #FFFFFF;
+
+}
+.footer_txt {
+    margin-left: 215px;
+    padding-top: auto;
+    font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+letter-spacing: 0.03em;
+color: rgba(255, 255, 255, 0.6);
+margin-bottom: 30px;
+}
+.footer_all {
+    
+}
